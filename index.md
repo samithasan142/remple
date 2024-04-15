@@ -26,7 +26,7 @@ title: Resume
 ## Research Publications
 ---
 
-***Advancing Abstractive Bangla Text Summarization: A Deep Learning Approach Using Seq2seq Encoder-Decoder Model and T5 Transformer** 
+***Advancing Abstractive Bangla Text Summarization: A Deep Learning Approach Using Seq2seq Encoder-Decoder Model and T5 Transformer***;
   * Authors: SM Tasnimul Hasan, Md Ashfaqur Rahman, Md Mahamudul Hasan, Mohammad Rakibul Hasan, Md Moinul Hoque
   * Booktitle: 2023 5th International Conference on Sustainable Technologies for Industry 5.0 (STI)
   * Pages: 1-6
