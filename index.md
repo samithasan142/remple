@@ -11,7 +11,8 @@ title: Resume
 ***Software QA Engineer (Nov 2023 - Present)*** &middot;	***Full-time***   
 
 * Developed and executed test plans and test cases for software applications.
-* Collaborated with cross-functional teams to align testing with requirements. 
+* Collaborated with cross-functional teams to align testing with requirements.
+* Reported bugs using bug tracking tools like JIRA.
 
 ### Swosti Limited     
 ***Junior Software Engineer (Sep 2023 – Nov 2023)*** &middot;	***Full-time***  
