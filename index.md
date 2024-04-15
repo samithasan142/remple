@@ -56,8 +56,12 @@ GPA: **5.00**
 ---
 * **[Blood Bank Management System](https://github.com/samithasan142/Blood-Bank-MS-Oracle-PL-SQL-):** Developed a distributed database system to efficiently manage data synchronization across physically dispersed locations of a blood collection company.  
 **Tools** &#124; **Technologies:** Oracle 10g, PL/SQL
-* **[Test Automation Boilerplate](https://github.com/Tahanima/test-automation-boilerplate):** Ready to use UI Test Automation Architecture  
-**Tools** &#124; **Technologies:** Java, Selenium WebDriver, TestNG, AssertJ, EventReports, JavaFaker, Git
+* **[FIN (Friend In Need)](https://github.com/samithasan142/FIN-Android-Application):** Created a user-friendly Android application that provides access to the nearest emergency services (Hospital, Pharmacy, Fuel Station, etc.) using Google Map API.  
+**Tools** &#124; **Technologies:** Android Studio, Firebase
+* **[Hotel Transylvania](https://github.com/samithasan142/Hotel-Transylvania):** Developed a user-friendly web-based hotel reservation system, allowing users to explore hotel services, view room images, and make reservations. Implemented an admin panel for managing hotel services and bookings.
+**Tools** &#124; **Technologies:** C#, ASP.NET MVC-5, HTML, CSS, MySQL  
+* **[Kacchi LAB](https://github.com/samithasan142/Kacchi-LAB):** Designed and developed a responsive food ordering website with dynamic content and MD5 password encryption. Implemented an easy-to-use admin panel for managing orders.  
+**Tools** &#124; **Technologies:** PHP, HTML, CSS, Bootstrap & MySQL
 
 <br />
   
