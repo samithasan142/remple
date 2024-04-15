@@ -7,19 +7,17 @@ title: Resume
 ## EXPERIENCE
 ---
 
-### Lorem Ipsum  
-***Lorem Ipsum (Jan 2017 - Present)*** &middot;	***Full-time***   
+### Enosis Solutions  
+***Software QA Engineer (Nov 2023 - Present)*** &middot;	***Full-time***   
 
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent massa nisi, venenatis sit amet tortor efficitur, scelerisque condimentum magna.
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent massa nisi, venenatis sit amet tortor efficitur, scelerisque condimentum magna. 
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent massa nisi, venenatis sit amet tortor efficitur, scelerisque condimentum magna.
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent massa nisi, venenatis sit amet tortor efficitur, scelerisque condimentum magna.
+* Developed and executed test plans and test cases for software applications.
+* Collaborated with cross-functional teams to align testing with requirements. 
 
-### BRAC University     
-***Undergraduate Teaching Assistant (Jun 2015 – Aug 2016)*** &middot;	***Part-time***  
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent massa nisi, venenatis sit amet tortor efficitur, scelerisque condimentum magna.
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent massa nisi, venenatis sit amet tortor efficitur, scelerisque condimentum magna.
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent massa nisi, venenatis sit amet tortor efficitur, scelerisque condimentum magna. 
+### Swosti Limited     
+***Junior Software Engineer (Sep 2023 – Nov 2023)*** &middot;	***Full-time***  
+* Developed backend applications with Spring Boot.
+* Generated reports with Jasper Reports.
+* Collaborated on the development of Microcredit and microfinance software systems, utilizing Java, Spring Boot, PostgreSQL, Git, Jasper Reports. 
 
 <br />
 
