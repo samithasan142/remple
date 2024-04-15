@@ -54,6 +54,8 @@ GPA: **5.00**
 ---
 ## PROJECT
 ---
+* **[Blood Bank Management System](https://github.com/samithasan142/Blood-Bank-MS-Oracle-PL-SQL-):** Developed a distributed database system to efficiently manage data synchronization across physically dispersed locations of a blood collection company.  
+**Tools** &#124; **Technologies:** Oracle 10g, PL/SQL
 * **[Test Automation Boilerplate](https://github.com/Tahanima/test-automation-boilerplate):** Ready to use UI Test Automation Architecture  
 **Tools** &#124; **Technologies:** Java, Selenium WebDriver, TestNG, AssertJ, EventReports, JavaFaker, Git 
 
