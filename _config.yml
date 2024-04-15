@@ -1,5 +1,5 @@
-title: Tahanima Chowdhury
-description: Software Engineer, QA @ Therap (BD) Ltd.
+title: S. M Tasnimul Hasan
+description: Software Engineer, QA @ Enosis Solutions Ltd.
 baseurl: "/remple/"
 url: ""
 photo_url: "my-photo.jpg"
@@ -7,10 +7,10 @@ photo_url: "my-photo.jpg"
 # This is an optional section
 # You can skip filling in one or more of the items in this section
 email: "tahanimachowdhury@gmail.com"
-linkedin: "http://linkedin.com/in/tahanima-chowdhury"
-github: "https://github.com/Tahanima"
-website: "http://tahanima.github.io/"
-medium: "https://tahanima.medium.com/"
+linkedin: "https://linkedin.com/in/s-m-tasnimul-hasan-samit/"
+github: "https://github.com/samithasan142"
+#website: "http://tasnimul.github.io/"
+#medium: "https://tasnimul.medium.com/"
 
 markdown: kramdown
 theme: minima
