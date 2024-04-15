@@ -39,6 +39,7 @@ title: Resume
 * Venue: 2023 5th International Conference on Sustainable Technologies for Industry 5.0 (STI)
 * Pages: 1-6
 * Year: 2023
+* Organization: IEEE
 * [Link to Publication](https://ieeexplore.ieee.org/document/10464795)
 
 <br />
