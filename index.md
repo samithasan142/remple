@@ -26,25 +26,29 @@ title: Resume
 ---
 ## EDUCATION
 ---
-### BRAC University  
-*Bachelor of Science in Computer Science (Jan 2013 - Aug 2017)*  
-CGPA: **3.71** (out of **4.00**) 
+### Ahsanullah University of Science and Technology  
+*Bachelor of Science in Computer Science and Engineering (Jan 2019 - Jun 2023)*  
+CGPA: **3.559** (out of **4.00**) 
 
-### Oxford International School
-*GCE A Level*  
-Result: **4 As** and **1 B**
+### Government Science College
+*Higher Secondary School Certificate (HSC)* 
+Group: **Science**
+GPA: **4.25**
 
-*GCE O Level*  
-Result: **4 A*s**, **3 As** and **2 Bs**
+### Motijheel Government Boys High School
+*Secondary School Certificate (SSC)*  
+Group: **Science**
+GPA: **5.00**
 
 <br />
 
 ---
 ## HONORS & ACHIEVEMENTS
 ---
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent massa nisi, venenatis sit amet tortor efficitur, scelerisque condimentum magna. 
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent massa nisi, venenatis sit amet tortor efficitur, scelerisque condimentum magna.
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent massa nisi, venenatis sit amet tortor efficitur, scelerisque condimentum magna.
+* **Performance Based Scholarship**, Ahsanullah University of Science and Technology. 
+* **1st Runner Up**, Intra AUST Software Exhibition, Code Combat 1.0.
+* **Runner Up**, Intra AUST Programming Quiz, Code Combat 1.0.
+* **5th** out of 40 teams, Intra AUST Programming Contest, Code Combat 1.0.
 
 <br />
 
@@ -59,5 +63,9 @@ Result: **4 A*s**, **3 As** and **2 Bs**
 ---
 ## SKILLS  
 ---
-* **Languages:** Java, C++, Ruby, SQL
-* **Tools** &#124; **Technologies:** Selenium WebDriver, Gradle, TestNG, Jekyll, Git, JIRA
+* **Languages:** Java, Python, C/C++, C#, PHP, MATLAB
+* **DL Frameworks:** TensorFlow, PyTorch
+* **Databases:** PostgreSQL, MySQL, Microsoft SQL, Oracle PL/SQL
+* **Web Development:** HTML, CSS, JavaScript, ASP.NET MVC-5
+* **App Development:** Android
+* **Version Control & OS:** Git, GitHub, Windows, Linux
